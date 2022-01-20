@@ -114,6 +114,12 @@ body{
     margin-bottom: 20px;
 }
 
+.value{
+    color:var(--very-light-pink);
+    font-size: var(--md);
+    margin: 8px 0 32px 0;
+}
+
 
 
 .primary-button{
@@ -159,10 +165,6 @@ body{
         display: block;
     }
 
-    .secondary-button{
-        position: absolute;
-        bottom: 0%;   
-    }
     .confirm-button{
         align-self: end; 
 
